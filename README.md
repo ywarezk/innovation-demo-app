@@ -61,8 +61,28 @@ git init
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/ywarezk/innovation-demo-app.git
-git push -u origin main
+git push -u origin master
 ```
+- modify the package.json. add the following:
+
+```
+"homepage": "https://ywarezk.github.io/innovation-demo-app",
+```
+
+- install the following package:
+
+```
+> npm install gh-pages
+```
+
+- Add the following to the `scripts` section of the `package.json`
+
+```
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+```
+
+
 
 ## EX.
 
