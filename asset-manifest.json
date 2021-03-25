@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/innovation-demo-app/static/css/main.636f56e6.chunk.css",
+    "main.js": "/innovation-demo-app/static/js/main.b9e56b0c.chunk.js",
+    "main.js.map": "/innovation-demo-app/static/js/main.b9e56b0c.chunk.js.map",
+    "runtime-main.js": "/innovation-demo-app/static/js/runtime-main.bd7dae80.js",
+    "runtime-main.js.map": "/innovation-demo-app/static/js/runtime-main.bd7dae80.js.map",
+    "static/js/2.de259699.chunk.js": "/innovation-demo-app/static/js/2.de259699.chunk.js",
+    "static/js/2.de259699.chunk.js.map": "/innovation-demo-app/static/js/2.de259699.chunk.js.map",
+    "static/js/3.72e53624.chunk.js": "/innovation-demo-app/static/js/3.72e53624.chunk.js",
+    "static/js/3.72e53624.chunk.js.map": "/innovation-demo-app/static/js/3.72e53624.chunk.js.map",
+    "index.html": "/innovation-demo-app/index.html",
+    "static/css/main.636f56e6.chunk.css.map": "/innovation-demo-app/static/css/main.636f56e6.chunk.css.map",
+    "static/js/2.de259699.chunk.js.LICENSE.txt": "/innovation-demo-app/static/js/2.de259699.chunk.js.LICENSE.txt",
+    "static/media/piglet.e32871f7.png": "/innovation-demo-app/static/media/piglet.e32871f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd7dae80.js",
+    "static/js/2.de259699.chunk.js",
+    "static/css/main.636f56e6.chunk.css",
+    "static/js/main.b9e56b0c.chunk.js"
+  ]
+}
